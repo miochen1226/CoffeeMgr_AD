@@ -1,0 +1,32 @@
+{
+  "patients" : [
+    {
+      "department" : "",
+      "firstName" : "陳",
+      "lastName" : "米歐",
+      "locationID" : "5A14",
+      "middleName" : "",
+      "mrn" : "00003",
+      "patientType" : 0
+    },
+    {
+      "department" : "",
+      "firstName" : "劉",
+      "lastName" : "德華",
+      "locationID" : "5A16",
+      "middleName" : "",
+      "mrn" : "00004",
+      "patientType" : 0
+    },
+    {
+      "department" : "",
+      "firstName" : "張",
+      "lastName" : "學友",
+      "locationID" : "5A10",
+      "middleName" : "",
+      "mrn" : "00001",
+      "patientType" : 0
+    }
+  ],
+  "version" : "1.0"
+}
